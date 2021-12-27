@@ -1,248 +1,5 @@
 [
   {
-    "language": "English",
-    "total": 2929,
-    "size_max_detail_page": 59,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_5.json"
-      },
-      {
-        "index_page": 6,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_6.json"
-      },
-      {
-        "index_page": 7,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_7.json"
-      },
-      {
-        "index_page": 8,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_8.json"
-      },
-      {
-        "index_page": 9,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_9.json"
-      },
-      {
-        "index_page": 10,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_10.json"
-      },
-      {
-        "index_page": 11,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_11.json"
-      },
-      {
-        "index_page": 12,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_12.json"
-      },
-      {
-        "index_page": 13,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_13.json"
-      },
-      {
-        "index_page": 14,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_14.json"
-      },
-      {
-        "index_page": 15,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_15.json"
-      },
-      {
-        "index_page": 16,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_16.json"
-      },
-      {
-        "index_page": 17,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_17.json"
-      },
-      {
-        "index_page": 18,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_18.json"
-      },
-      {
-        "index_page": 19,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_19.json"
-      },
-      {
-        "index_page": 20,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_20.json"
-      },
-      {
-        "index_page": 21,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_21.json"
-      },
-      {
-        "index_page": 22,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_22.json"
-      },
-      {
-        "index_page": 23,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_23.json"
-      },
-      {
-        "index_page": 24,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_24.json"
-      },
-      {
-        "index_page": 25,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_25.json"
-      },
-      {
-        "index_page": 26,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_26.json"
-      },
-      {
-        "index_page": 27,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_27.json"
-      },
-      {
-        "index_page": 28,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_28.json"
-      },
-      {
-        "index_page": 29,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_29.json"
-      },
-      {
-        "index_page": 30,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_30.json"
-      },
-      {
-        "index_page": 31,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_31.json"
-      },
-      {
-        "index_page": 32,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_32.json"
-      },
-      {
-        "index_page": 33,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_33.json"
-      },
-      {
-        "index_page": 34,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_34.json"
-      },
-      {
-        "index_page": 35,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_35.json"
-      },
-      {
-        "index_page": 36,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_36.json"
-      },
-      {
-        "index_page": 37,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_37.json"
-      },
-      {
-        "index_page": 38,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_38.json"
-      },
-      {
-        "index_page": 39,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_39.json"
-      },
-      {
-        "index_page": 40,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_40.json"
-      },
-      {
-        "index_page": 41,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_41.json"
-      },
-      {
-        "index_page": 42,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_42.json"
-      },
-      {
-        "index_page": 43,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_43.json"
-      },
-      {
-        "index_page": 44,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_44.json"
-      },
-      {
-        "index_page": 45,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_45.json"
-      },
-      {
-        "index_page": 46,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_46.json"
-      },
-      {
-        "index_page": 47,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_47.json"
-      },
-      {
-        "index_page": 48,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_48.json"
-      },
-      {
-        "index_page": 49,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_49.json"
-      },
-      {
-        "index_page": 50,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_50.json"
-      },
-      {
-        "index_page": 51,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_51.json"
-      },
-      {
-        "index_page": 52,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_52.json"
-      },
-      {
-        "index_page": 53,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_53.json"
-      },
-      {
-        "index_page": 54,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_54.json"
-      },
-      {
-        "index_page": 55,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_55.json"
-      },
-      {
-        "index_page": 56,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_56.json"
-      },
-      {
-        "index_page": 57,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_57.json"
-      },
-      {
-        "index_page": 58,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_58.json"
-      }
-    ]
-  },
-  {
     "language": "Portuguese",
     "total": 2929,
     "size_max_detail_page": 59,
@@ -486,249 +243,6 @@
     ]
   },
   {
-    "language": "Spanish",
-    "total": 2929,
-    "size_max_detail_page": 59,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_5.json"
-      },
-      {
-        "index_page": 6,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_6.json"
-      },
-      {
-        "index_page": 7,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_7.json"
-      },
-      {
-        "index_page": 8,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_8.json"
-      },
-      {
-        "index_page": 9,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_9.json"
-      },
-      {
-        "index_page": 10,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_10.json"
-      },
-      {
-        "index_page": 11,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_11.json"
-      },
-      {
-        "index_page": 12,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_12.json"
-      },
-      {
-        "index_page": 13,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_13.json"
-      },
-      {
-        "index_page": 14,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_14.json"
-      },
-      {
-        "index_page": 15,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_15.json"
-      },
-      {
-        "index_page": 16,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_16.json"
-      },
-      {
-        "index_page": 17,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_17.json"
-      },
-      {
-        "index_page": 18,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_18.json"
-      },
-      {
-        "index_page": 19,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_19.json"
-      },
-      {
-        "index_page": 20,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_20.json"
-      },
-      {
-        "index_page": 21,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_21.json"
-      },
-      {
-        "index_page": 22,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_22.json"
-      },
-      {
-        "index_page": 23,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_23.json"
-      },
-      {
-        "index_page": 24,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_24.json"
-      },
-      {
-        "index_page": 25,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_25.json"
-      },
-      {
-        "index_page": 26,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_26.json"
-      },
-      {
-        "index_page": 27,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_27.json"
-      },
-      {
-        "index_page": 28,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_28.json"
-      },
-      {
-        "index_page": 29,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_29.json"
-      },
-      {
-        "index_page": 30,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_30.json"
-      },
-      {
-        "index_page": 31,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_31.json"
-      },
-      {
-        "index_page": 32,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_32.json"
-      },
-      {
-        "index_page": 33,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_33.json"
-      },
-      {
-        "index_page": 34,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_34.json"
-      },
-      {
-        "index_page": 35,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_35.json"
-      },
-      {
-        "index_page": 36,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_36.json"
-      },
-      {
-        "index_page": 37,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_37.json"
-      },
-      {
-        "index_page": 38,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_38.json"
-      },
-      {
-        "index_page": 39,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_39.json"
-      },
-      {
-        "index_page": 40,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_40.json"
-      },
-      {
-        "index_page": 41,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_41.json"
-      },
-      {
-        "index_page": 42,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_42.json"
-      },
-      {
-        "index_page": 43,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_43.json"
-      },
-      {
-        "index_page": 44,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_44.json"
-      },
-      {
-        "index_page": 45,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_45.json"
-      },
-      {
-        "index_page": 46,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_46.json"
-      },
-      {
-        "index_page": 47,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_47.json"
-      },
-      {
-        "index_page": 48,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_48.json"
-      },
-      {
-        "index_page": 49,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_49.json"
-      },
-      {
-        "index_page": 50,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_50.json"
-      },
-      {
-        "index_page": 51,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_51.json"
-      },
-      {
-        "index_page": 52,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_52.json"
-      },
-      {
-        "index_page": 53,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_53.json"
-      },
-      {
-        "index_page": 54,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_54.json"
-      },
-      {
-        "index_page": 55,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_55.json"
-      },
-      {
-        "index_page": 56,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_56.json"
-      },
-      {
-        "index_page": 57,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_57.json"
-      },
-      {
-        "index_page": 58,
-        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_58.json"
-      }
-    ]
-  },
-  {
     "language": "Russian",
     "total": 2929,
     "size_max_detail_page": 59,
@@ -968,6 +482,492 @@
       {
         "index_page": 58,
         "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Russian_index_58.json"
+      }
+    ]
+  },
+  {
+    "language": "English",
+    "total": 2929,
+    "size_max_detail_page": 59,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_9.json"
+      },
+      {
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_12.json"
+      },
+      {
+        "index_page": 13,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_13.json"
+      },
+      {
+        "index_page": 14,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_14.json"
+      },
+      {
+        "index_page": 15,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_15.json"
+      },
+      {
+        "index_page": 16,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_16.json"
+      },
+      {
+        "index_page": 17,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_17.json"
+      },
+      {
+        "index_page": 18,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_18.json"
+      },
+      {
+        "index_page": 19,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_19.json"
+      },
+      {
+        "index_page": 20,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_20.json"
+      },
+      {
+        "index_page": 21,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_21.json"
+      },
+      {
+        "index_page": 22,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_22.json"
+      },
+      {
+        "index_page": 23,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_23.json"
+      },
+      {
+        "index_page": 24,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_24.json"
+      },
+      {
+        "index_page": 25,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_25.json"
+      },
+      {
+        "index_page": 26,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_26.json"
+      },
+      {
+        "index_page": 27,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_27.json"
+      },
+      {
+        "index_page": 28,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_28.json"
+      },
+      {
+        "index_page": 29,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_29.json"
+      },
+      {
+        "index_page": 30,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_30.json"
+      },
+      {
+        "index_page": 31,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_31.json"
+      },
+      {
+        "index_page": 32,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_32.json"
+      },
+      {
+        "index_page": 33,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_33.json"
+      },
+      {
+        "index_page": 34,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_34.json"
+      },
+      {
+        "index_page": 35,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_35.json"
+      },
+      {
+        "index_page": 36,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_36.json"
+      },
+      {
+        "index_page": 37,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_37.json"
+      },
+      {
+        "index_page": 38,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_38.json"
+      },
+      {
+        "index_page": 39,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_39.json"
+      },
+      {
+        "index_page": 40,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_40.json"
+      },
+      {
+        "index_page": 41,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_41.json"
+      },
+      {
+        "index_page": 42,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_42.json"
+      },
+      {
+        "index_page": 43,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_43.json"
+      },
+      {
+        "index_page": 44,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_44.json"
+      },
+      {
+        "index_page": 45,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_45.json"
+      },
+      {
+        "index_page": 46,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_46.json"
+      },
+      {
+        "index_page": 47,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_47.json"
+      },
+      {
+        "index_page": 48,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_48.json"
+      },
+      {
+        "index_page": 49,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_49.json"
+      },
+      {
+        "index_page": 50,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_50.json"
+      },
+      {
+        "index_page": 51,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_51.json"
+      },
+      {
+        "index_page": 52,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_52.json"
+      },
+      {
+        "index_page": 53,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_53.json"
+      },
+      {
+        "index_page": 54,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_54.json"
+      },
+      {
+        "index_page": 55,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_55.json"
+      },
+      {
+        "index_page": 56,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_56.json"
+      },
+      {
+        "index_page": 57,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_57.json"
+      },
+      {
+        "index_page": 58,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_English_index_58.json"
+      }
+    ]
+  },
+  {
+    "language": "Spanish",
+    "total": 2929,
+    "size_max_detail_page": 59,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_9.json"
+      },
+      {
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_12.json"
+      },
+      {
+        "index_page": 13,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_13.json"
+      },
+      {
+        "index_page": 14,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_14.json"
+      },
+      {
+        "index_page": 15,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_15.json"
+      },
+      {
+        "index_page": 16,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_16.json"
+      },
+      {
+        "index_page": 17,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_17.json"
+      },
+      {
+        "index_page": 18,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_18.json"
+      },
+      {
+        "index_page": 19,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_19.json"
+      },
+      {
+        "index_page": 20,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_20.json"
+      },
+      {
+        "index_page": 21,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_21.json"
+      },
+      {
+        "index_page": 22,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_22.json"
+      },
+      {
+        "index_page": 23,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_23.json"
+      },
+      {
+        "index_page": 24,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_24.json"
+      },
+      {
+        "index_page": 25,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_25.json"
+      },
+      {
+        "index_page": 26,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_26.json"
+      },
+      {
+        "index_page": 27,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_27.json"
+      },
+      {
+        "index_page": 28,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_28.json"
+      },
+      {
+        "index_page": 29,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_29.json"
+      },
+      {
+        "index_page": 30,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_30.json"
+      },
+      {
+        "index_page": 31,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_31.json"
+      },
+      {
+        "index_page": 32,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_32.json"
+      },
+      {
+        "index_page": 33,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_33.json"
+      },
+      {
+        "index_page": 34,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_34.json"
+      },
+      {
+        "index_page": 35,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_35.json"
+      },
+      {
+        "index_page": 36,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_36.json"
+      },
+      {
+        "index_page": 37,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_37.json"
+      },
+      {
+        "index_page": 38,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_38.json"
+      },
+      {
+        "index_page": 39,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_39.json"
+      },
+      {
+        "index_page": 40,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_40.json"
+      },
+      {
+        "index_page": 41,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_41.json"
+      },
+      {
+        "index_page": 42,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_42.json"
+      },
+      {
+        "index_page": 43,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_43.json"
+      },
+      {
+        "index_page": 44,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_44.json"
+      },
+      {
+        "index_page": 45,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_45.json"
+      },
+      {
+        "index_page": 46,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_46.json"
+      },
+      {
+        "index_page": 47,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_47.json"
+      },
+      {
+        "index_page": 48,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_48.json"
+      },
+      {
+        "index_page": 49,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_49.json"
+      },
+      {
+        "index_page": 50,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_50.json"
+      },
+      {
+        "index_page": 51,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_51.json"
+      },
+      {
+        "index_page": 52,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_52.json"
+      },
+      {
+        "index_page": 53,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_53.json"
+      },
+      {
+        "index_page": 54,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_54.json"
+      },
+      {
+        "index_page": 55,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_55.json"
+      },
+      {
+        "index_page": 56,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_56.json"
+      },
+      {
+        "index_page": 57,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_57.json"
+      },
+      {
+        "index_page": 58,
+        "link_page": "https://github.com/lmbstudiocontact/mb6_dt_language_0/raw/main/14132021_dtl_Spanish_index_58.json"
       }
     ]
   }
